@@ -1,0 +1,17 @@
+{
+    "name": "my-project-name",
+    "version": "1.0.0",
+    "dependencies": {
+        "underscore": "latest",
+        "react": "latest"
+    },
+    "devDependencies": {
+        "babelify": "latest",
+        "browserify": "latest",
+        "grunt": "latest",
+        "grunt-browserify": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-watch": "latest"
+    }
+}
